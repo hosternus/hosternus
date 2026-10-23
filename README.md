@@ -84,6 +84,7 @@ Backend developer who also owns the infrastructure. I write async Python service
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-%23025E8C.svg?style=for-the-badge&logo=dependabot&logoColor=white">
+  <img alt="Trivy" src="https://img.shields.io/badge/Trivy-%231904DA.svg?style=for-the-badge&logo=trivy&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNOCA2IDIgMTJsNiA2TTE2IDZsNiA2LTYgNk0xNCA0bC00IDE2Ii8%2BPC9zdmc%2B">
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black">
   <img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-%23FBB040.svg?style=for-the-badge&logo=homebrew&logoColor=black">
