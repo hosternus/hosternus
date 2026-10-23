@@ -11,7 +11,7 @@ Backend developer who also owns the infrastructure. I write async Python service
 
 - **Backend** — REST APIs on FastAPI, event-driven services on FastStream and RabbitMQ, MySQL, MariaDB and Redis behind SQLAlchemy and Pydantic
 - **Infrastructure** — Terraform and Ansible across Google, Yandex, VK, Cloud.ru and Timeweb clouds; Docker behind Nginx or Caddy; CI/CD on GitHub Actions
-- **Observability** — Prometheus and Grafana for metrics and dashboards
+- **Observability** — Prometheus and VictoriaMetrics for metrics, Grafana for dashboards
 - **Automation** — n8n workflows, plus Claude Code and Codex in the daily loop
 - **Now** — building **GiontVPN**, a VPN service on Xray-core: Telegram bots, backend, payments and the node fleet
 - **Also** — studying computer science; the C++ labs are public
@@ -64,6 +64,7 @@ Backend developer who also owns the infrastructure. I write async Python service
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img alt="Caddy" src="https://img.shields.io/badge/Caddy-%231F88C0.svg?style=for-the-badge&logo=caddy&logoColor=white">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img alt="VictoriaMetrics" src="https://img.shields.io/badge/VictoriaMetrics-%23621773.svg?style=for-the-badge&logo=victoriametrics&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 </p>
 
