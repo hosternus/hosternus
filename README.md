@@ -125,31 +125,3 @@ Backend developer who also owns the infrastructure. I write async Python service
   <img alt="Google" src="https://img.shields.io/badge/Google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
 </p>
 <!-- /stack -->
-
-### Projects
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-giontvpn-dark.svg">
-    <img alt="GiontVPN" src="assets/card-giontvpn-light.svg" width="49%">
-  </picture>
-  <a href="https://github.com/hosternus/shortener"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-shortener-dark.svg">
-    <img alt="shortener" src="assets/card-shortener-light.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/hosternus/pdf-cleaner"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-pdf-cleaner-dark.svg">
-    <img alt="pdf-cleaner" src="assets/card-pdf-cleaner-light.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/hosternus?tab=repositories&q=cpp-lab"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-cpp-labs-dark.svg">
-    <img alt="C++ labs" src="assets/card-cpp-labs-light.svg" width="49%">
-  </picture></a>
-</p>
-
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosternus/hosternus/output/snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hosternus/hosternus/output/snake-light.svg" width="100%">
-</picture>
