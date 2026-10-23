@@ -13,7 +13,6 @@ Backend developer who also owns the infrastructure. I write async Python service
 - **Infrastructure** — Terraform and Ansible across Google, Yandex, VK, Cloud.ru and Timeweb clouds; Docker behind Nginx or Caddy; CI/CD on GitHub Actions
 - **Observability** — Prometheus and VictoriaMetrics for metrics, Grafana for dashboards
 - **Automation** — n8n workflows, plus Claude Code and Codex in the daily loop
-- **Now** — building **GiontVPN**, a VPN service on Xray-core: Telegram bots, backend, payments and the node fleet
 - **Also** — studying computer science; the C++ labs are public
 
 ### Stack
