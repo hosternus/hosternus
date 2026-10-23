@@ -62,6 +62,7 @@ Backend developer who also owns the infrastructure. I write async Python service
   <img alt="Portainer" src="https://img.shields.io/badge/Portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img alt="Caddy" src="https://img.shields.io/badge/Caddy-%231F88C0.svg?style=for-the-badge&logo=caddy&logoColor=white">
+  <img alt="NetBird" src="https://img.shields.io/badge/NetBird-%23F68330.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI2ZmZiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGZpbGw9Im5vbmUiIGQ9Ik02IDZoMTJNNiA2bDYgMTJNMTggNmwtNiAxMiIvPjxjaXJjbGUgY3g9IjYiIGN5PSI2IiByPSIzIi8%2BPGNpcmNsZSBjeD0iMTgiIGN5PSI2IiByPSIzIi8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxOCIgcj0iMyIvPjwvZz48L3N2Zz4%3D">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white">
   <img alt="VictoriaMetrics" src="https://img.shields.io/badge/VictoriaMetrics-%23621773.svg?style=for-the-badge&logo=victoriametrics&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
