@@ -14,8 +14,8 @@
 <text x="58.0" y="76.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="600" fill="#59636e" text-anchor="start" textLength="300.0" lengthAdjust="spacing" >BACKEND · INFRASTRUCTURE</text>
 <text x="54.0" y="152.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="80" font-weight="700" fill="#1f2328" text-anchor="start" letter-spacing="-2.5">hosternus</text>
 <text x="58.0" y="194.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#59636e" text-anchor="start" >Async Python services and the infra they run on.</text>
-<rect x="56" y="218" width="164" height="34" rx="17" fill="#0969da" fill-opacity=".1" stroke="#0969da" stroke-opacity=".35"/>
+<rect x="56" y="218" width="222" height="34" rx="17" fill="#0969da" fill-opacity=".1" stroke="#0969da" stroke-opacity=".35"/>
 <circle cx="76" cy="235" r="4.5" fill="#0969da" fill-opacity=".5"><animate attributeName="r" values="4.5;10;4.5" dur="2s" repeatCount="indefinite"/><animate attributeName="fill-opacity" values=".5;0;.5" dur="2s" repeatCount="indefinite"/></circle>
 <circle cx="76" cy="235" r="4.5" fill="#0969da"/>
-<text x="91.0" y="240.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500" fill="#1f2328" text-anchor="start" >Moscow · UTC+3</text>
+<text x="91.0" y="240.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500" fill="#1f2328" text-anchor="start" >From code to production</text>
 </svg>
